@@ -15,3 +15,5 @@
 [![Website](https://img.shields.io/badge/Website-gabe.ren-orange?logo=firefoxbrowser&logoColor=white)](https://gabe.ren/)
 [![Discord](https://img.shields.io/badge/Discord-gabe__xu-5865f2?logo=discord&logoColor=white)](#)
 [![Bilibili](https://img.shields.io/badge/Bilibili-@Gabe__Xu-ff69b4?logo=bilibili&logoColor=white)](https://space.bilibili.com/1525408234)
+
+![](https://raw.githubusercontent.com/Gabe-Xu/Gabe-Xu/main/assets/github-contribution-grid-snake.svg)
