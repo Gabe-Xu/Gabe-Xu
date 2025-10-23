@@ -1,5 +1,5 @@
 <p>
-  Hi, I’m Gabriel, a design enthusiast from
+  Hi, I’m Gabriel 👋, a design enthusiast from
   <a href="https://en.wikipedia.org/wiki/Shantou" target="_blank" rel="noopener noreferrer">Shantou</a>,
   <a href="https://en.wikipedia.org/wiki/China" target="_blank" rel="noopener noreferrer">China</a>.
 </p>
