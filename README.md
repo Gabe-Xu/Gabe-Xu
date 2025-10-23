@@ -6,7 +6,6 @@ Hi, I’m **Gabriel**, a design enthusiast from [Shantou](https://en.wikipedia.o
 
 ## About Me
 
-- 🎨 Interested in UI/UX design, visual identity, and creative coding  
-- 💻 Currently learning front-end development and web aesthetics  
-- ✏️ Writing thoughts and design notes on my blog: [gabe.ren](https://gabe.ren)  
-- 💛 Fond of cute things, especially [Shisa](https://chiikawa.fandom.com/wiki/Shisa) from [Chiikawa](https://en.wikipedia.org/wiki/Chiikawa)
+- 🎨 Interested in UI/UX design, front-end development, and creative coding  
+- 💻 An ISTP sharing design notes and thoughts on [gabe.ren](https://gabe.ren)  
+- 💛 Fond of cute things, especially [Shisa](https://chiikawa.fandom.com/wiki/Shisa) from [Chiikawa](https://en.wikipedia.org/wiki/Chiikawa)  
