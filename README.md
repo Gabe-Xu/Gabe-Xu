@@ -1,19 +1,15 @@
-<p>
-  Hi, I’m Gabriel, a design enthusiast from
-  <a href="https://en.wikipedia.org/wiki/Shantou" target="_blank" rel="noopener noreferrer">Shantou</a>,
-  <a href="https://en.wikipedia.org/wiki/China" target="_blank" rel="noopener noreferrer">China</a>.
-</p>
+# Hi there 👋  
+![](https://komarev.com/ghpvc/?username=foru17e&color=blue&style=flat-square)
 
-<h2>About Me</h2>
-<ul>
-  <li>🎨 Interested in UI/UX design, visual identity, and creative coding</li>
-  <li>💻 Currently learning front-end development and web aesthetics</li>
-  <li>✏️ Writing thoughts and design notes on my blog:
-    <a href="https://gabe.ren" target="_blank" rel="noopener noreferrer">gabe.ren</a>
-  </li>
-  <li>💛 Fond of cute things, especially
-    <a href="https://chiikawa.fandom.com/wiki/Shisa" target="_blank" rel="noopener noreferrer">Shisa</a>
-    from
-    <a href="https://en.wikipedia.org/wiki/Chiikawa" target="_blank" rel="noopener noreferrer">Chiikawa</a>.
-  </li>
-</ul>
+[![foru17 stats](https://github-readme-stats.vercel.app/api?username=foru17&theme=dark&show_icons=true)](https://github.com/foru17)
+
+💻 Full-Stack Developer / 📷 Weekend Photographer / 🎬 YouTuber  
+
+Hi, I’m **Gabriel**, a design enthusiast from [Shantou](https://en.wikipedia.org/wiki/Shantou), [China](https://en.wikipedia.org/wiki/China).
+
+## About Me
+
+- 🎨 Interested in UI/UX design, visual identity, and creative coding  
+- 💻 Currently learning front-end development and web aesthetics  
+- ✏️ Writing thoughts and design notes on my blog: [gabe.ren](https://gabe.ren)  
+- 💛 Fond of cute things, especially [Shisa](https://chiikawa.fandom.com/wiki/Shisa) from [Chiikawa](https://en.wikipedia.org/wiki/Chiikawa)
