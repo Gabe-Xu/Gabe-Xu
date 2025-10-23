@@ -1,4 +1,3 @@
-<font size="4">Hi, I’m Gabriel! 👋</font>
 <p>
   Hi, I’m Gabriel, a design enthusiast from
   <a href="https://en.wikipedia.org/wiki/Shantou" target="_blank" rel="noopener noreferrer">Shantou</a>,
