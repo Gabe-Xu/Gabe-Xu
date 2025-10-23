@@ -1,5 +1,4 @@
-# Hi there 👋  
-![](https://komarev.com/ghpvc/?username=Gabe-Xu&color=blue&style=flat-square)
+# Hi there 👋 ![](https://komarev.com/ghpvc/?username=Gabe-Xu&color=blue&style=flat-square)
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=Gabe-Xu&theme=dark&show_icons=true)](https://github.com/foru17)
 
