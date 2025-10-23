@@ -1,4 +1,4 @@
-<p style="font-size: 1.5em; font-weight: 700; margin: 0;">Hi, I’m Gabriel! 👋</p>
+<p style="font-size: 1.5em; font-weight: bold; margin: 0;">Hi, I’m Gabriel! 👋</p>
 <p>
   Hi, I’m Gabriel, a design enthusiast from
   <a href="https://en.wikipedia.org/wiki/Shantou" target="_blank" rel="noopener noreferrer">Shantou</a>,
