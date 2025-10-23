@@ -15,9 +15,3 @@
 [![Website](https://img.shields.io/badge/Website-gabe.ren-orange?logo=firefoxbrowser&logoColor=white)](https://gabe.ren/)
 [![Discord](https://img.shields.io/badge/Discord-gabe__xu-5865f2?logo=discord&logoColor=white)](#)
 [![Bilibili](https://img.shields.io/badge/Bilibili-@Gabe__Xu-ff69b4?logo=bilibili&logoColor=white)](https://space.bilibili.com/1525408234)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
