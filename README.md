@@ -1,4 +1,4 @@
-<h2>Hi, I’m Gabriel! 👋</h2>
+<h2 style="border-bottom:none">Hi, I’m Gabriel! 👋</h2>
 <p>
   Hi, I’m Gabriel, a design enthusiast from
   <a href="https://en.wikipedia.org/wiki/Shantou" target="_blank" rel="noopener noreferrer">Shantou</a>,
