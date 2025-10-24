@@ -6,7 +6,7 @@
 
 - 🎨 Interested in UI/UX design, front-end development, and creative coding  
 - 💻 An ISTP sharing design notes and thoughts on [gabe.ren](https://gabe.ren)  
-- 💛 Fond of cute things, especially [Shisa](https://chiikawa.fandom.com/wiki/Shisa) from [Chiikawa](https://en.wikipedia.org/wiki/Chiikawa)
+- 🧡 Fond of cute things, especially [Shisa](https://chiikawa.fandom.com/wiki/Shisa) from [Chiikawa](https://en.wikipedia.org/wiki/Chiikawa)
 
 ## Contact
 
