@@ -5,7 +5,7 @@
 ## About Me
 
 - 🎨 Interested in UI/UX design, front-end development, and creative coding.
-- 💻 An [ISTP](https://www.16personalities.com/profiles/0946bd8c81df7) sharing design notes and thoughts on [gabe.ren](https://gabe.ren).
+- 💻 An [ISTP](https://www.16personalities.com/profiles/0946bd8c81df7) sharing design notes and thoughts on [gabexu.com](https://gabexu.com).
 - 🧡 Fond of cute things, especially [Shisa](https://chiikawa.fandom.com/wiki/Shisa) from [Chiikawa](https://en.wikipedia.org/wiki/Chiikawa).
 
 ## Contact
